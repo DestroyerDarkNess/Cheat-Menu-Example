@@ -12,7 +12,7 @@ A modern and functional example menu for your Cheats.
 
 > 2. The menu is displayed on top of all games Created in Unity or those that render on OpenGL [Regardless of whether it is in full screen or not.]
 
-> 3. If your game works with Directx, then possibly this cheat menu will not show if the game is in full screen. [You will have to work with the game in Window mode. Or I could work with my ![Fake Full Screen](https://github.com/DestroyerDarkNess/Fake-FullScreen)
+> 3. If your game works with Directx, then possibly this cheat menu will not show if the game is in full screen. [You will have to work with the game in Window mode. Or I could work with my [Fake Full Screen](https://github.com/DestroyerDarkNess/Fake-FullScreen)
 
 > 4. Some Games that work with Directx, Surprisingly the menu works on top of them even if they are in full screen. [For example Operation7, Gunz Ultra]
 
