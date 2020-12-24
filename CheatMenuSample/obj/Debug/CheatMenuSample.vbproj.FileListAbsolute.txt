@@ -22,3 +22,4 @@ C:\Users\S4Lsalsoft\Documents\Visual Studio 2013\Projects\CheatMenuSample\CheatM
 C:\Users\S4Lsalsoft\Documents\Visual Studio 2013\Projects\CheatMenuSample\CheatMenuSample\obj\Debug\CheatMenuSample.Loader.resources
 C:\Users\S4Lsalsoft\Documents\Visual Studio 2013\Projects\CheatMenuSample\CheatMenuSample\obj\Debug\CheatMenuSample.Resources.resources
 C:\Users\S4Lsalsoft\Documents\Visual Studio 2013\Projects\CheatMenuSample\CheatMenuSample\obj\Debug\CheatMenuSample.vbproj.GenerateResource.Cache
+C:\Users\S4Lsalsoft\Documents\Visual Studio 2013\Projects\CheatMenuSample\CheatMenuSample\obj\Debug\CheatMenuSample.vbprojResolveAssemblyReference.cache
