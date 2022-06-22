@@ -34,6 +34,6 @@ A modern and functional example menu for your Cheats.
 
 ## Preview :
 
-![Preview1](https://gamerzhacking.com/proxy.php?image=https%3A%2F%2Fi.ibb.co%2FzNThgsb%2FCSTest.png&hash=fe1b302aca55b96ddfa2e5f17297fd39)
+![Preview1](https://gamerzhacking.com/proxy.php?image=https%3A%2F%2Fi.ibb.co%2FzNThgsb%2FCSTest.png&hash=11f608c43e79dbae4d08067f9fafc524)
 
-![Preview2](https://gamerzhacking.com/proxy.php?image=https%3A%2F%2Fi.ibb.co%2FmXczs2t%2FCSTest2.png&hash=b009146ff7392e5619f1c0c6c27172d2)
+![Preview2](https://gamerzhacking.com/proxy.php?image=https%3A%2F%2Fi.ibb.co%2FmXczs2t%2FCSTest2.png&hash=ec1e3f3981bf56757fe38265be4c097c)
